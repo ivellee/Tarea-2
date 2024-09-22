@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cambio</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="celular">Número de celular</string>
+    <string name="perfil">Perfil</string>
+    <string name="enviar">Enviar</string>
+
+</resources>
